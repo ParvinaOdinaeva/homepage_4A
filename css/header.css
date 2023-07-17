@@ -1,0 +1,22 @@
+.header__main {
+    text-align: left;
+    background-color: rgb(29, 29, 185);
+    color: white;
+}
+
+.header__section {
+    margin: 25px 0;
+    color: #012174;
+}
+
+.header__point {
+    margin: 20px 0;
+    color: #012174;
+}
+
+
+.header__section--priceComparison {
+    text-align: center;
+    font-weight: bold;
+    color: #012174;
+}

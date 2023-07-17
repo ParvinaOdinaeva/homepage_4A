@@ -1,0 +1,30 @@
+html {
+    box-sizing: border-box;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+
+.bodyBackgdoundColor {
+    background-color: #f6f9fa;
+}
+
+.js-advertisingBox {
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
